@@ -1,6 +1,6 @@
 # Can You Guess It
 
-This repository contains all the files for a simple windows console application _Can You Guess It_ written in *C#* and *.NET* .
+This repository contains the files for a simple windows console application _Can You Guess It_ written in *C#* and *.NET* .
 
 ## Run this app
 
