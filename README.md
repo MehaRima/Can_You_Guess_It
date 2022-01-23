@@ -1,4 +1,4 @@
-# Can_You_Guess_It
+# Can You Guess It
 
 This repository contains all the files for a simple windows console application _Can You Guess It_ written in *C#* and *.NET* .
 
