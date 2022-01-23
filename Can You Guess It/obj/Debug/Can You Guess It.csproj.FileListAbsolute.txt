@@ -1,0 +1,8 @@
+C:\Users\sahel\Downloads\.NET projects\Can You Guess It\bin\Debug\Can You Guess It.exe.config
+C:\Users\sahel\Downloads\.NET projects\Can You Guess It\bin\Debug\Can You Guess It.exe
+C:\Users\sahel\Downloads\.NET projects\Can You Guess It\bin\Debug\Can You Guess It.pdb
+C:\Users\sahel\Downloads\.NET projects\Can You Guess It\obj\Debug\Can You Guess It.csproj.AssemblyReference.cache
+C:\Users\sahel\Downloads\.NET projects\Can You Guess It\obj\Debug\Can You Guess It.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahel\Downloads\.NET projects\Can You Guess It\obj\Debug\Can You Guess It.csproj.CoreCompileInputs.cache
+C:\Users\sahel\Downloads\.NET projects\Can You Guess It\obj\Debug\Can You Guess It.exe
+C:\Users\sahel\Downloads\.NET projects\Can You Guess It\obj\Debug\Can You Guess It.pdb
